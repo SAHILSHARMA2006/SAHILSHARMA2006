@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SAHILSHARMA2006
-- 👀 I’m interested in ethical hacking.
-- 🌱 I’m currently learning kali linux.
-- 💞️ I’m looking to collaborate on github.
+- 👀 I’m interested in game developing.
+- 🌱 I’m currently learning front-end developing.
 - 📫 How to reach me?, nah, not interested.
 
 <!---
