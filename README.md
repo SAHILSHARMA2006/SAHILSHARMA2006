@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAHILSHARMA2006
-- 👀 I’m interested in game developing.
-- 🌱 I’m currently learning front-end developing.
-- 📫 How to reach me?, nah, not interested.
+- 👀 I’m interested in Cloud & DevOps.
+- 🌱 I’m currently learning AWS.
+- 📫 How to reach me?, usually, e-mail.
 
 <!---
 SAHILSHARMA2006/SAHILSHARMA2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
